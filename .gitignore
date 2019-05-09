@@ -1,0 +1,13 @@
+/venv
+*.pyc
+*.json
+*.log
+*.DS_Store
+/inc
+*.egg-info/
+.idea/
+log/
+bin/
+*.db
+*.egg
+env/
