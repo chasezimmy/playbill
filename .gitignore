@@ -10,4 +10,4 @@ log/
 bin/
 *.db
 *.egg
-env/
+env/__init__.py
